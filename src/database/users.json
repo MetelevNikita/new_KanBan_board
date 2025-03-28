@@ -1,0 +1,30 @@
+{
+   "users": [
+      {
+         "id": 1,
+         "name": "Nikita Metelev",
+         "login": "nikmet",
+         "email": "nikmet@gmail.com",
+         "password": "123",
+         "profile": {
+            "img": "http://localhost:3000/public/avatar/1.jpg",
+            "age": 25,
+            "about": "I am a front-end developer",
+            "profession": "Front-end Developer"
+         },
+         "createAt": "2020-04-04T07:53:50.244Z"
+      },
+      {
+         "id": 3,
+         "name": "victor Doe",
+         "login": "dou",
+         "email": "dou@gmail.com",
+         "password": "456",
+         "img": "http://localhost:3000/public/avatar/2.jpg",
+         "age": 25,
+         "about": "I am a front-end developer",
+         "profession": "Front-end Developer",
+         "createAt": "2020-04-04T07:53:50.244Z"
+      }
+   ]
+}
